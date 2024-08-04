@@ -109,7 +109,7 @@ creamos una carpeta config src/config/db.js
 
 
 ### up server trought  index.ts
-despues de crear la conexion a la base de datos provamos que realmente si se este conectando con un try catch 
+despues de crear la conexion a la base de datos probamos que realmente si se este conectando con un try catch 
 
     import  express  from  'express'
     import  env  from  'dotenv'
